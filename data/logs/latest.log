@@ -1,88 +1,149 @@
-[12:28:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:28:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:28:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:28:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:28:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:28:27] [Server thread/INFO]: Starting minecraft server version 1.14.1
-[12:28:27] [Server thread/INFO]: Loading properties
-[12:28:27] [Server thread/INFO]: Default game type: SURVIVAL
-[12:28:27] [Server thread/INFO]: Generating keypair
-[12:28:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:28:28] [Server thread/INFO]: Using epoll channel type
-[12:28:28] [Server thread/INFO]: Preparing level "world"
-[12:28:28] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:28:29] [Server thread/INFO]: Loaded 6 recipes
-[12:28:31] [Server thread/INFO]: Loaded 811 advancements
-[12:28:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:51] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[12:28:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:53] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[12:28:53] [Server-Worker-3/INFO]: Preparing spawn area: 4%
-[12:28:57] [Server-Worker-2/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-3/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-1/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-1/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-2/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-2/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-2/INFO]: Preparing spawn area: 15%
-[12:28:57] [Server-Worker-1/INFO]: Preparing spawn area: 22%
-[12:28:57] [Server thread/INFO]: Time elapsed: 25270 ms
-[12:28:57] [Server thread/INFO]: Done (29.440s)! For help, type "help"
-[12:30:35] [User Authenticator #1/INFO]: UUID of player tanishida is 64b11797-b1de-4ed1-8ce7-626295cc215d
-[12:30:36] [Server thread/INFO]: tanishida[/114.150.125.48:57664] logged in with entity id 192 at (2792.684144666991, 66.0, 2599.7330563802257)
-[12:30:36] [Server thread/INFO]: tanishida joined the game
-[12:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[12:31:04] [Server thread/INFO]: tanishida lost connection: Disconnected
-[12:31:04] [Server thread/INFO]: tanishida left the game
-[12:31:18] [Server thread/INFO]: Stopping the server
-[12:31:18] [Server thread/INFO]: Stopping server
-[12:31:18] [Server thread/INFO]: Saving players
-[12:31:18] [Server thread/INFO]: Saving worlds
-[12:31:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:31:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:31:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:35:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:35:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:35:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:35:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:35:02] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[13:35:02] [Server thread/INFO]: Loading properties
+[13:35:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:35:02] [Server thread/INFO]: Generating keypair
+[13:35:02] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ÉnÉìÉhÉãÇ™ñ≥å¯Ç≈Ç∑ÅB
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at ug$2.run(SourceFile:109) [minecraft_server.1.14.1.jar:?]
+[13:35:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:35:04] [Server thread/INFO]: Using default channel type
+[13:35:07] [Server thread/INFO]: Preparing level "world"
+[13:35:08] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:35:09] [Server thread/INFO]: Loaded 6 recipes
+[13:35:13] [Server thread/INFO]: Loaded 811 advancements
+[13:35:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:35:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:19] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:19] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:19] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:19] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:35:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:35:21] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:35:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:35:24] [Server-Worker-2/INFO]: Preparing spawn area: 1%
+[13:35:24] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+[13:35:24] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+[13:35:24] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+[13:35:24] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+[13:35:25] [Server-Worker-2/INFO]: Preparing spawn area: 1%
+[13:35:25] [Server-Worker-2/INFO]: Preparing spawn area: 1%
+[13:35:25] [Server-Worker-1/INFO]: Preparing spawn area: 2%
+[13:35:26] [Server-Worker-3/INFO]: Preparing spawn area: 4%
+[13:35:27] [Server-Worker-2/INFO]: Preparing spawn area: 4%
+[13:35:27] [Server-Worker-2/INFO]: Preparing spawn area: 4%
+[13:35:27] [Server-Worker-1/INFO]: Preparing spawn area: 4%
+[13:35:28] [Server-Worker-3/INFO]: Preparing spawn area: 7%
+[13:35:29] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+[13:35:42] [Server-Worker-3/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-3/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-1/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[13:35:42] [Server-Worker-3/INFO]: Preparing spawn area: 43%
+[13:35:43] [Server thread/INFO]: Time elapsed: 29486 ms
+[13:35:43] [Server thread/INFO]: Done (35.546s)! For help, type "help"
+[13:39:58] [User Authenticator #1/INFO]: UUID of player tanishida is 64b11797-b1de-4ed1-8ce7-626295cc215d
+[13:39:59] [Server thread/INFO]: tanishida[/127.0.0.1:51576] logged in with entity id 204 at (2799.402330713651, 66.0, 2598.4948882420263)
+[13:40:00] [Server thread/INFO]: tanishida joined the game
+[13:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10531ms or 210 ticks behind
+[13:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19421ms or 388 ticks behind
+[13:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[13:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[13:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[13:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[13:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[13:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[13:59:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[13:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6960ms or 139 ticks behind
+[14:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[14:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21968ms or 439 ticks behind
+[14:03:28] [Server thread/INFO]: tanishida was fireballed by Blaze
+[14:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[14:03:47] [Server thread/WARN]: tanishida moved too quickly! -0.37729517283423775,0.0,-10.173559534897777
+[14:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28898ms or 577 ticks behind
+[14:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8739ms or 174 ticks behind
+[14:05:10] [Server thread/WARN]: tanishida moved too quickly! 7.103735793085548,-0.2522033402537289,-7.192462385223564
+[14:07:57] [Server thread/WARN]: tanishida moved too quickly! 0.4578616054608631,-0.7531999805212024,-10.018196564186503
+[14:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[14:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4204ms or 84 ticks behind
+[14:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[14:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14997ms or 299 ticks behind
+[14:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[14:16:49] [Server thread/INFO]: tanishida lost connection: Disconnected
+[14:16:49] [Server thread/INFO]: tanishida left the game
+[14:22:19] [User Authenticator #2/INFO]: UUID of player tanishida is 64b11797-b1de-4ed1-8ce7-626295cc215d
+[14:22:20] [Server thread/INFO]: tanishida[/127.0.0.1:53238] logged in with entity id 18000 at (25.31429486488315, 73.5, -220.82179705390533)
+[14:22:21] [Server thread/INFO]: tanishida joined the game
+[14:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[14:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[14:23:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6164ms or 123 ticks behind
+[15:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[15:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[18:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6446ms or 128 ticks behind
+[19:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:33:42] [Server thread/INFO]: tanishida drowned
+[19:37:17] [Server thread/INFO]: tanishida lost connection: Disconnected
+[19:37:17] [Server thread/INFO]: tanishida left the game
+[19:37:28] [Server thread/INFO]: Stopping server
+[19:37:28] [Server thread/INFO]: Saving players
+[19:37:28] [Server thread/INFO]: Saving worlds
+[19:37:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
